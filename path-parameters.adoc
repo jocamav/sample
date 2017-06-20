@@ -1,0 +1,8 @@
+./api/alerts/{id}
+|===
+|Parameter|Description
+
+|id
+|ID of the Alert to get
+
+|===

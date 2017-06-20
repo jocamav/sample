@@ -1,0 +1,9 @@
+[source,http]
+----
+HTTP/1.1 200 OK
+Strict-Transport-Security: max-age=31536000 ; includeSubDomains
+Content-Type: application/json;charset=UTF-8
+Content-Length: 122
+
+{"id":5788,"dateCreated":"2017-06-15T14:30:10.778Z","lastUpdated":"2017-06-15T14:30:10.778Z","archived":false,"read":true}
+----
